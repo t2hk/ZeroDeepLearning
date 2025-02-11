@@ -1,0 +1,5 @@
+numpy
+matplotlib
+chainer
+Pillow
+jupyter
